@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://miteshanshu.github.io/sitemap.xml
